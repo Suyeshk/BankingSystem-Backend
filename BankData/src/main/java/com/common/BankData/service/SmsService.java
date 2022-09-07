@@ -37,7 +37,7 @@ public class SmsService {
 
             int code=con.getResponseCode();
 
-            System.out.println("Response code : "+code);
+            //System.out.println("Response code : "+code);
 
             StringBuffer response=new StringBuffer();
 
